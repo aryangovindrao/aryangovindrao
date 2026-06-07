@@ -1,10 +1,16 @@
-```
-┌─────────────────────────────────────────────────────────────┐
-│  > whoami                                                     │
-│  Aryan Govind Rao — AI/ML Engineer · Full-Stack Developer     │
-│  B.Tech CSE @ SRM IST · CGPA 9.17/10 · class of 2027          │
-└─────────────────────────────────────────────────────────────┘
-```
+<!-- ===== ANIMATED HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aryan%20Govind%20Rao&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- ===== ANIMATED TYPING ===== -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+production+AI+systems;Generative+AI+%C2%B7+LLMs+%C2%B7+RAG;Full-stack+platforms+at+scale;B.Tech+CSE+%40+SRM+IST+%C2%B7+CGPA+9.17%2F10)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryangovindrao&style=flat-square&color=36BCF7)
+![Class of 2027](https://img.shields.io/badge/Class%20of-2027-36BCF7?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20SDE%20roles-success?style=flat-square)
+
+</div>
 
 ```python
 class Aryan:
@@ -89,14 +95,35 @@ Robust steganography surviving compression — AES-256 encryption, minimized vis
 
 ### `~/stats`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aryangovindrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=aryangovindrao&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryangovindrao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aryangovindrao&theme=tokyonight&no-frame=true&column=7&margin-w=4)
+
+</div>
+
+<!-- ===== ANIMATED ACTIVITY GRAPH (no Action needed) ===== -->
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryangovindrao&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 <br>
 
 ### `~/connect`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-govind-rao-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryangovindrao)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aryan0823/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag0325@srmist.edu.in)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
