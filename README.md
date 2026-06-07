@@ -97,12 +97,10 @@ Robust steganography surviving compression — AES-256 encryption, minimized vis
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aryangovindrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryangovindrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 ![Streak](https://streak-stats.demolab.com/?user=aryangovindrao&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryangovindrao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aryangovindrao&theme=tokyonight&no-frame=true&column=7&margin-w=4)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryangovindrao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
@@ -122,7 +120,7 @@ Robust steganography surviving compression — AES-256 encryption, minimized vis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-govind-rao-/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryangovindrao)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aryan0823/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag0325@srmist.edu.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangovindrao07@gmail.com)
 
 </div>
 
